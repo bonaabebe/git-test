@@ -10,7 +10,7 @@ The Prison Record Management System is a web application built using the MERN st
 
 ## Technologies Used
 - **Frontend**: 
-  - React.js <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCelkmWfnQkGmyWNujbuC9mF04Ww5rGRN1vA&s" alt="Logo" width="100" height="100" />
+  - React.js <br> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCelkmWfnQkGmyWNujbuC9mF04Ww5rGRN1vA&s" alt="Logo" width="100" height="100" />
   - React Router
   - Axios
   - material UI
