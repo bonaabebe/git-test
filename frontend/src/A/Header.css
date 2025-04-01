@@ -1,0 +1,40 @@
+/* Header.css */
+
+.header {
+    background-color: #2980b9; /* Desired header background color */
+    color: white; /* Text color */
+    padding: 15px; /* Padding around the header */
+    text-align: center; /* Center text alignment */
+    position: fixed; /* Keeps the header fixed at the top */
+    z-index: 1; /* Ensures the header is above other content */
+    width: 100%; /* Full width of the viewport */
+    top: 0; /* Aligns the header to the top */
+    left: 0; /* Aligns the header to the left */
+}
+
+.header h1 {
+    margin: 0; /* Removes default margin */
+    font-size: 2em; /* Header font size */
+}
+
+.header nav ul {
+    list-style: none; /* Removes default list styling */
+    padding: 0; /* Removes default padding */
+    margin: 10px 0 0; /* Adds margin above the list */
+}
+
+.header nav ul li {
+    display: inline; /* Displays list items inline */
+    margin: 0 15px; /* Adds space between list items */
+}
+
+.header nav ul li a {
+    color: white; /* Link text color */
+    text-decoration: none; /* Removes underline from links */
+    font-weight: bold; /* Makes links bold */
+    transition: color 0.3s; /* Smooth color transition on hover */
+}
+
+.header nav ul li a:hover {
+    color: #f39c12; /* Changes link color on hover */
+}
