@@ -13,9 +13,9 @@ The Prison Record Management System is a web application built using the MERN st
   - React.js <br> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCelkmWfnQkGmyWNujbuC9mF04Ww5rGRN1vA&s" alt="Logo" width="100" height="100" />
   - React Router <br> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Mo-09Vngs5t_oWGqHZuPtg.png" alt="Logo" width="100" height="100" />
   - Axios
-  - material UI
+  - material UI  <br> <img src=" https://delta-dev-software.fr/wp-content/uploads/2024/02/1_fEyeESs-HxVR7Zlr-fdlvw.png" alt="Logo" width="100" height="100" />  
 - **Backend**: 
-  - Node.js
-  - Express.js
+  - Node.js <br> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/220px-Node.js_logo.svg.png" alt="Logo" width="100" height="100" />
+  - Express.js <br> <img src="https://miro.medium.com/v2/resize:fit:1400/0*DLIXPxOHgFIMWanI.png" alt="Logo" width="100" height="100" />
   - MongoDB
   - Mongoose
